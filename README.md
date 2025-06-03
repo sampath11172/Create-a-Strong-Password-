@@ -3,27 +3,43 @@ To understand what makes a password strong by creating multiple passwords, testi
 
 Password Tests and Results
 
-**Password 1**: elevate,
+**Password 1**: elevate
 
-Strength: Weak, 
-Score:49%, 
-Crack Time:A few seconds, 
+Strength: Weak
+
+Score:49%
+
+Crack Time:A few seconds
+
 Tool Used: passwordmeter.com
 
-**Password 2**: elevate@1234, 
-Strength: Medium, 
-Score:71%, 
-Crack Time: A few hours, 
+
+**Password 2**: elevate@1234
+
+Strength: Medium
+
+Score:71%
+
+Crack Time: A few hours
+
 Tool Used: passwordmeter.com
 
-**Password 3**: !Elevate#12@34, 
-Strength:100%, 
-Crack Time: Billions of years, 
+
+**Password 3**: !Elevate#12@34
+
+Strength:100%
+
+Crack Time: Billions of years
+
 Tool Used: passwordmeter.com
 
-**Password 4**:^Ele!Vat@e#1234$, 
-Strength:100%, 
-Crack Time: Decades, 
+
+**Password 4**:^Ele!Vat@e#1234$,
+
+Strength:100%
+
+Crack Time: Decades
+
 Tool Used: passwordmeter.com
 
 
