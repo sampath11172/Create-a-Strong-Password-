@@ -49,6 +49,8 @@ Tool Used: passwordmeter.com
 
 
 >**Best Practices Learned**
+
+
 Use a mix of uppercase, lowercase, numbers, and symbols
 Passwords should be at least 12 characters long
 Avoid using personal info or common patterns
@@ -56,7 +58,11 @@ Passphrases (random words + symbols) are easy to remember and strong
 Never reuse passwords for different accounts
 
 >**Password Attack Summary**
+
+
 Brute Force Attack, Dictionary Attack, Credential Stuffing
 
 >**Tools Used**
+
+
 https://passwordmeter.com
