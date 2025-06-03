@@ -3,7 +3,8 @@ To understand what makes a password strong by creating multiple passwords, testi
 
 Password Tests and Results
 
-**Password 1**: elevate, 
+**Password 1**: elevate,
+
 Strength: Weak, 
 Score:49%, 
 Crack Time:A few seconds, 
