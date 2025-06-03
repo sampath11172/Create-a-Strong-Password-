@@ -5,7 +5,7 @@ Password Tests and Results
 
 
 
-**Password 1**: elevate
+>**Password 1: elevate**
 
 Strength: Weak
 
@@ -17,7 +17,7 @@ Tool Used: passwordmeter.com
 
 
 
-**Password 2**: elevate@1234
+>**Password 2: elevate@1234**
 
 Strength: Medium
 
@@ -29,7 +29,7 @@ Tool Used: passwordmeter.com
 
 
 
-**Password 3**: !Elevate#12@34
+>**Password 3: !Elevate#12@34**
 
 Strength:100%
 
@@ -39,7 +39,7 @@ Tool Used: passwordmeter.com
 
 
 
-**Password 4**:^Ele!Vat@e#1234$,
+>**Password 4:^Ele!Vat@e#1234$,**
 
 Strength:100%
 
